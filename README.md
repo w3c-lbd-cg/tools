@@ -14,5 +14,5 @@ Converts an IFC file to a Turtle file described using [BOT](https://github.com/w
 * [Revit BOT exporter](https://github.com/MadsHolten/revit-bot-exporter) by *[Mads Holten Rasmussen](https://www.researchgate.net/profile/Mads_Holten_Rasmussen)*
 Runs in Revit and exports native objects to a Turtle file described using [BOT](https://github.com/w3c-lbd-cg/bot)
 
-* [ifcOWL to BOT with WKT](https://github.com/kmcglinn/fcOwl2IfcOwlGeo/tree/master/IfcOwl2IfcOwlGeo) by *[Kris McGlinn, Joseph O'Donavan](Method for converting IFC geometric data into GeoSPARQL 7th Linked Data in Architecture and Construction (LDAC) Workshop , pp10-18, http://linkedbuildingdata.net/ldac2019/files/LDAC2019_Joseph_ODonovan.pdf)*
+* [ifcOWL to BOT with WKT](https://github.com/kmcglinn/fcOwl2IfcOwlGeo/tree/master/IfcOwl2IfcOwlGeo) by *[Kris McGlinn & Joseph O'Donavan](Method for converting IFC geometric data into GeoSPARQL 7th Linked Data in Architecture and Construction (LDAC) Workshop , pp10-18, http://linkedbuildingdata.net/ldac2019/files/LDAC2019_Joseph_ODonovan.pdf)*
 Runs in Java and exports ifcOWL geometries as BOT with WKT (or OBJ) 
