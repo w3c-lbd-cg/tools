@@ -1,10 +1,10 @@
 # Tools and related ontologies
-A list of tools that use the LBD technologies and related ontologies
+A list of tools that use the LBD technologies
 
 
 ## How to add your own
 1. Fork this repository
-2. Add your tool/ontology and a description to the readme file
+2. Add your tool and a description to the readme file
 3. Make pull request
 
 ## List of tools using LBD ontologies
@@ -22,22 +22,6 @@ Runs in Java and exports ifcOWL geometries as BOT with WKT (or OBJ)
 * [FOG demo web visualizer](https://github.com/mathib/fog-demo-app) by *[Mathias Bonduel](https://www.researchgate.net/profile/Mathias_Bonduel)*: conceptual web geometry viewer for geometry descriptions linked to building elements (BOT and PRODUCT) using [OMG](https://w3id.org/omg)/[FOG](https://w3id.org/fog) terminology. Uses three.js for the visualization
 
 * [Revit-triplestore syncronizer](https://github.com/mathib/StardogRevit-synchronizer) by *[Mathias Bonduel](https://www.researchgate.net/profile/Mathias_Bonduel)*: a Dynamo app to sync data between an existing RDF dataset in a Stardog triplestore and Revit
-
-## Ontologies closely related to LBD technologies
-
-* [OMG: Ontology for Managing Geometry](https://w3id.org/omg) by *[Anna Wagner](https://www.researchgate.net/profile/Anna_Wagner13) and [Mathias Bonduel](https://www.researchgate.net/profile/Mathias_Bonduel)*: linking between concepts (e.g. a building element) and their geometry description(s), between related geometry descriptions and between geometry descriptions and related properties. 
-
-* [FOG: File Ontology for Geometry formats](https://w3id.org/fog) by *[Mathias Bonduel](https://www.researchgate.net/profile/Mathias_Bonduel) and [Anna Wagner](https://www.researchgate.net/profile/Anna_Wagner13)*: extension of OMG for geometry schema specific relations to geometry descriptions (e.g. OBJ, Revit geometry, E57, DWG, etc.)
-
-* [BPO: Building Product Ontology](https://w3id.org/bpo) *[Anna Wagner](https://www.researchgate.net/profile/Anna_Wagner13)*
-
-* [IFC-PROPS](https://github.com/maximelefrancois86/props) by *[Maxime Lefrançois](http://maxime-lefrancois.info/me#)*: list of properties extracted from IFC4 psets
-
-* [IFC-PRODUCT](https://github.com/pipauwel/product) by *[Pieter Pauwels](https://www.ugent.be/ea/architectuur/en/contact/staff-members/pieter-pauwels)*: extended version of the minimal LBD PRODUCT ontology, based on IFC product definitions
-
-* HVAC ontology
-
-* PROJECT ontology
 
 ## Other tools developed by members of the LBD community
 
