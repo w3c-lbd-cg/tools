@@ -23,7 +23,7 @@ Runs in Java and exports ifcOWL geometries as BOT with WKT (or OBJ)
 
 * [Revit-triplestore syncronizer](https://github.com/mathib/StardogRevit-synchronizer) by *[Mathias Bonduel](https://www.researchgate.net/profile/Mathias_Bonduel)*: a Dynamo app to sync data between an existing RDF dataset in a Stardog triplestore and Revit
 
-* [Open Smart Home Dataset](https://doi.org/10.5281/zenodo.1244602) by Mads Holten Rasmussen, Peter Bonsma, Pieter Pauwels, Jyrki Oraskari and Georg Ferdinand Schneider: A RDF dataset of a real smart home. Included are the geometry of a flat, its topological description and measurement data of a real smart home.
+* [Open Smart Home Dataset](https://doi.org/10.5281/zenodo.1244602) by *Mads Holten Rasmussen*, *Peter Bonsma*, *Pieter Pauwels*, *Jyrki Oraskari* and *Georg Ferdinand Schneider*: A RDF dataset of a real smart home. Included are the geometry of a flat, its topological description and measurement data of a real smart home.
 
 ## Other tools developed by members of the LBD community
 
